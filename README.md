@@ -33,10 +33,8 @@
 </p>
 
 🎬 **Demonstração do sistema:**
-
-<p>primeira demonstração dos cadastros básicos</p>
-[Assista ao vídeo no YouTube](https://youtu.be/K5nRztypUJE)
-<br>
+<p>primeira demonstração dos cadastros básicos:</p>
+[Assista ao vídeo no YouTube](https://youtu.be/K5nRztypUJE)<br><br>
 <p>segunda demonstração dos lançamento de atividades do colaborador</p>
 [Assista ao vídeo no YouTube](https://youtu.be/9JARapSEQII)
 
