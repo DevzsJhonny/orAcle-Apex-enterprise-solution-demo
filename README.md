@@ -16,12 +16,12 @@
   <li>JavaScript</li>
   <li>HTML/CSS</li>
 </ul>
-<br> <br>
+<br> 
 <h4>
 💡 O projeto foi desenvolvido aplicando a metodologia <strong>SCRUM</strong> e princípios de <strong>mentalidade ágil</strong>, visando atender um grande cliente que utilizava planilhas complexas para controle de processos e fluxos internos.<br><br>
 Fiz parte de uma equipe ágil composta por <strong>1 Scrum Master</strong>, <strong>1 Product Owner</strong> e <strong>1 analista de requisitos e testes</strong>, atuando como <strong>único desenvolvedor Oracle APEX</strong> responsável por toda a implementação técnica do sistema.
 </h4>
-<br> <br>
+<br> 
 
 <h3>🚀 Principais recursos</h3>
 <ul>
