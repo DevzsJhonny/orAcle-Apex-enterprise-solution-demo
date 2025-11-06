@@ -17,6 +17,12 @@
   <li>HTML/CSS</li>
 </ul>
 
+<h4>
+💡 O projeto foi desenvolvido aplicando a metodologia <strong>SCRUM</strong> e princípios de <strong>mentalidade ágil</strong>, visando atender um grande cliente que utilizava planilhas complexas para controle de processos e fluxos internos.<br><br>
+Fiz parte de uma equipe ágil composta por <strong>1 Scrum Master</strong>, <strong>1 Product Owner</strong> e <strong>1 analista de requisitos e testes</strong>, atuando como <strong>único desenvolvedor Oracle APEX</strong> responsável por toda a implementação técnica do sistema.
+</h4>
+
+
 <h3>🚀 Principais recursos</h3>
 <ul>
   <li>Controle de esforço de colaboradores e horas faturáveis</li>
@@ -35,6 +41,6 @@
 🎬 **Demonstração do sistema:**
 <p>primeira demonstração dos cadastros básicos:</p>
 [Assista ao vídeo no YouTube](https://youtu.be/K5nRztypUJE)<br><br>
-<p>segunda demonstração dos lançamento de atividades do colaborador</p>
+<p>segunda demonstração dos lançamento de atividades do colaborador:</p>
 [Assista ao vídeo no YouTube](https://youtu.be/9JARapSEQII)
 
